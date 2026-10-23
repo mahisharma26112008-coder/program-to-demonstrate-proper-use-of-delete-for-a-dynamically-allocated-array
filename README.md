@@ -1,0 +1,1 @@
+# program-to-demonstrate-proper-use-of-delete-for-a-dynamically-allocated-array
